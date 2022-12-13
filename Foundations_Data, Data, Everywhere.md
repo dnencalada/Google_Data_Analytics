@@ -1,5 +1,4 @@
 #  Foundations: Data, Data, Everywhere
-daniel
 ## Introducing data analytics
 
 ### The six steps of the data analysis process
