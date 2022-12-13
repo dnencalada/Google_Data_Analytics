@@ -347,7 +347,6 @@ start exploring Tableau from the [How-to Video](https://public.tableau.com/en-us
 - Programming language (R with RStudio)
 [RStudio Cheatsheets](https://rstudio.com/resources/cheatsheets/ "This link takes you to the RStudio Cheatsheets page.") and the [RStudio Visualize Data Primer](https://rstudio.cloud/learn/primers/3 "This link takes you to the RStudio primer called Visualize Data.") are great places to start.
 
-
 ## Let's get down to business
 - The role of a Data Analyst
 - Business tasks for Data Analyst
