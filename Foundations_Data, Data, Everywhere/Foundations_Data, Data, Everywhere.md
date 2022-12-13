@@ -241,7 +241,7 @@ These tools
 
 ## Setting up a data toolbox
 ### Mastering the spreadsheet basics
-![](attachments/Screen_Shot_2021-04-15_at_7.04.42_PM.png)
+![](Images/image1.png)
 Columns are ordered by letter, while rows are ordered by number. So when you talk about a specific cell, you name it by combining the column letter and row numebr like D3.
 Format --> Text wrapping:
 - Overflow: text can show flowing over the cell when it's too long
