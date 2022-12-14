@@ -1,8 +1,10 @@
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image0.jpg)
 #  Foundations: Data, Data, Everywhere
-## Introducing data analytics
+
+## Introducing Data Analytics
 
 ### The six steps of the data analysis process
-**ask, prepare, process, analyze, share** and **act**.
+
 1.  **Ask**: Business Challenge/Objective/Question
 2.  **Prepare**: Data generation, collection, storage, and data management
 3.  **Process**: Data cleaning/data integrity
@@ -15,9 +17,7 @@ Next, they **prepared** by building a timeline and collecting data with employee
 They **processed** the data by cleaning it to make sure it was complete, correct, relevant, and free of errors and outliers.
 They **analyzed** the clean employee survey data. Then the analysts **shared** their findings and recommendations with team leaders. Afterward, leadership **acted** on the results and focused on improving key areas.
 
-
 ---
-
 
 > **Data + business knowledge = mystery solved**
 > For data analysts, just trusting our gut instinct without any data to back it up can be a problem. Your business knowledge and experience may help you understand problems intuitively. But, unlike gut instinct, it will give you more than just a feeling to go on.
@@ -183,7 +183,7 @@ Visualization is the best friend. Using R language.
 6. Act
 The business put all the insights to work in order to solve the business problem.
 
-![](attachments/1SGUPX1MSv6hlD19TDr-og_c73fbb7c8c87419cb4a705b4eff51dee_Screen-Shot-2021-03-17-at-5.38.27-PM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image4.png)
 
 ---
 
@@ -241,7 +241,7 @@ These tools
 
 ## Setting up a data toolbox
 ### Mastering the spreadsheet basics
-![](Google_Data_Analytics/Images/image1.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image1.png)
 Columns are ordered by letter, while rows are ordered by number. So when you talk about a specific cell, you name it by combining the column letter and row numebr like D3.
 Format --> Text wrapping:
 - Overflow: text can show flowing over the cell when it's too long
@@ -297,7 +297,7 @@ Databases that use SQL: Oracle, MySQL, PostgreSQL, Microsoft SQL Server, MangoDB
 [w3schools](https://www.w3schools.com/sql/default.asp)
 
 **Query**: The way we use SQL to communicate with the databse, basically a request for data or information from a database.
-![](attachments/Screen_Shot_2021-04-16_at_1.57.59_PM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image2.png)
 ```SQL
 table AS customers      --Alias to make the work easier
 
@@ -335,7 +335,7 @@ Data analysts use data visualizations to explain complex data quickly, reinforce
 1. Explore the data for patterns
 2. Plan your visuals
 3. Create your visuals
-![](attachments/dStLohUTSdmrS6IVEwnZOQ_73392ddf18f949afbb3cefee223b8c4b_Screen-Shot-2020-11-11-at-4.52.03-PM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image5.png)
 
 #### Build your data visualization toolkit
 There are many different tools you can use for data visualization:
@@ -416,7 +416,7 @@ Remember, you want to enjoy what you do, so it's a good idea to think about how 
 | Data Specialist               | organizes or converts data for use in databases or software systems                      |
 | Operations Analyst            | analyzes data to assess the performance of business operations and workflows             |
 
-![](attachments/HtY7wOoDR8GWO8DqA0fB5w_a7541b9b5e7142b9baf13596d5fa5667_Screen-Shot-2021-02-24-at-4.22.21-PM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image3.png)
 
 Three core roles:
 - Data analyst: work with SQL, spreadsheets, databases, create dashboard. (The data they used is get from data engineer)
