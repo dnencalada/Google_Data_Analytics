@@ -193,7 +193,7 @@ A career as a data analyst also involves using programming languages, like R and
 
 #### Spreadsheets
 A spreadsheets is a digital worksheet, which stores, organizes and sorts data. Also has useful features called formulas and functions. 
-e.g. Microsoft Excel, Google sheets
+e.g. Microsoft Excel, Google sheets.
 **Formula**: A set of instructions that performs a specific calculation using the data in the spreedsheet.
 **Function**: A preset command that automatically performs a specific process or task using the data in the spreadsheet.
 
