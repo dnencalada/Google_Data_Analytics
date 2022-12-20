@@ -41,6 +41,7 @@ EMC Corporation's data analytics life cycle is cyclical with six steps:
 6.  Operationalize
 
 #### SAS' iterative life cycle
+
 An iterative life cycle was created by a company called **SAS**, a leading data analytics solutions provider.
 1.  Ask
 2.  Prepare
