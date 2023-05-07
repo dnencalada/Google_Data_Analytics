@@ -94,7 +94,7 @@ These six steps can help you to break the data analysis process into smaller, ma
 ### 6 Basic problem types
 Understanding what kind of problem you are trying to solve.
 
-![](attachments/QJL2lG1VQxWS9pRtVTMVTw_6217c9fe51ec43f48f02dc4f42cc1d56_Screen-Shot-2020-12-09-at-10.17.12-PM_1.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image6.jpg)
 
 #### Making predictions
 A company that wants to know the best advertising method to bring in new customers is an example of a problem requiring analysts to make predictions.
@@ -117,7 +117,7 @@ Finding patterns deals with identifying trends in a data set.
 How to ask effective questions that lead to key insights you can use to solve all kinds of problems?
 
 #### SMART methodology
-![](attachments/LVRgU3jYTomUYFN42N6JxA_3bf2e40d79bd4afdb998eadc80bf5d33_Screen-Shot-2020-12-09-at-9.45.07-AM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image7.jpg)
 - **S**pecific
 Specific questions are simple, significant, and focused on a single topic or a few closely related ideas.
 - **M**easurable
@@ -213,8 +213,7 @@ Video streaming success, Fast food on-the-go
  **Qualitative data**: subjective or explanatory measures of qualities and characteristics
     Why? (Can't be measured with numeric data)
 
-![](attachments/kcoM3jvKRwaKDN47ypcGEg_0e94cc13f6c148479406a8b1021c6cea_DA_C2M2L2R2.png)
-
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image8.jpg)
 
 
    
@@ -284,13 +283,13 @@ Filters show certain data while hiding the rest of the data in a dashboard. To d
 ##### Types of dashboards
 1.  **Strategic**: *Focuses on long term goals and strategies at the highest level of metrics.*
 These dashboards provide information over the longest time frame — from a single financial quarter to years.
-![](attachments/_O4x49FyST-uMePRchk_Kw_0d6cb3f91ba34f3593b295e2eb6298c8_Revenue-and-Customer-Overview---Q1.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image9.jpg)
 2.  **Operational:** *Short-term performance tracking and intermediate goals.*
 Arguably, the most common type of dashboard. Containing information on a time scale of days, weeks, or months, and they can provide performance insight almost in real-time.
-![](attachments/TZjKLdd_TdOYyi3Xfy3Tvg_49fd9063b3db483fb846d20802a57c8b_Customer-Service-Team-Dashboard.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image10.jpg)
 3.  **Analytical:** *Consists of the datasets and the mathematics used in these sets.*
 Analytical dashboards contain the details involved in the usage, analysis, and predictions made by data scientists. Rarely shared with upper management as they can be very difficult to understand.
-![](attachments/LrWPh3r1TDC1j4d69ewwHA_f6bd305b5f1e4c8f8625b9a004e5366c_Financial-Performance-Dashboard.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image11.jpg)
 
 
 
@@ -371,7 +370,7 @@ Data analysts use formulas and functions to save time and effort by automating c
 
 #### Spreadsheets and the data life cycle
 The relationship of using spreadsheets and the data life cycle: **plan, capture, manage, analyze, archive,** and **destroy**.
-![](attachments/lHzyKWuFSKm88ilrheipIA_d3792e86a2fa4cdcbc8729a6cf5e9ac4_DA_C2M3L2R1.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image12.jpg)
 
 - **Plan** for the users who will work within a spreadsheet by developing organizational standards.
 This can mean formatting your cells, the headings you choose to highlight, the color scheme, and the way you order your data points.
@@ -479,7 +478,7 @@ Helpful tips:
 A `#DIV/0!` error means that your formula is trying to divide a value in a cell by 0, or by an empty cell (with no value).
 You can delete that row but a better option is to fill `N/A` automatically.
 Change the formula from `=C4/B4\*100` to `=IF(B4, C4/B4*100, "N/A")`:
-![](attachments/zwxfL6dZT-qMXy-nWX_qyw_8c9f7108f5fa49d2a15556ccfe15dc4d_DIV-0-Fixed.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image13.jpg)
 
 ##### `#ERROR!` or `#NULL!`
 Means that you have specified two or more cell ranges without a comma as the delimiter to separate them.
@@ -510,14 +509,14 @@ Can’t perform a calculation as specified.
 The numbers might be too big or small for the spreadsheet to process, the calculation might be impossible, or there is something wrong with the variables that have been input.
 
 e.g. the spreadsheet can’t execute the DATEDIF formula because the Start Date is after the End Date:
-![](attachments/vH-Ao0DhRRq_gKNA4ZUa6w_1e180f8d8d414b48aeaaef5506952d35_Screenshot-2020-11-17-at-10.23.40-AM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image14.jpg)
 
 
 ##### `#REF!`
 Your formula or function is referencing a cell that is no longer valid. A cell (or range of cells) may be missing because it was deleted.
-![](attachments/CDA69iiGQ7qwOvYohvO6oA_5b6dc57321984cf7a2374e6f0ae43c40_VALUE--1.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image15.jpg)
 If you delete row 4:
-![](attachments/HzkJ6AEcTL25CegBHKy9ew_ca7bb4456c134252a164ee98fd4ba400_VALUE--2.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image16.jpg)
 
 ##### `#VALUE!`
 A general error.
@@ -676,7 +675,7 @@ These stakeholders have their own objectives and may come to you with specific a
 ##### Data science team
 Working with other data analysts, data scientists, and data engineers.
 A big part of your job will be collaborating with other data team members to find new angles of the data to explore. Here's a view of how  different roles on a typical data science team support different functions:
-![](attachments/XAuqDNu8SSqLqgzbvMkqfA_34dc6616b07f453fb9cbd955008544d9_DA_C2M4L2R1.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image17.jpg)
 
 #### Tips on working effectively with stakeholders
 Use the following tips to communicate clearly, establish trust, and deliver your findings across groups.
@@ -752,10 +751,10 @@ You can start by sending an email update to Kiri with the latest timeline for th
 
 *Updated timeline email sample:*
 After answering the audience questions, you have the key building blocks you need to write an email to Kiri. Here's an example of how these questions can help organize the flow of the email message:
-![](attachments/hAhepVrCRq6IXqVawjauBw_669dfe6c4b35405dada09ead335d511c_Screen-Shot-2020-12-09-at-11.35.49-AM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image18.jpg)
 
 *Project follow-up email sample:*
-![](attachments/R-7sfTANRP-u7H0wDQT_kA_f555fa6929e144a28eea2ad40f1251a7_Screen-Shot-2020-12-09-at-11.38.12-AM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image19.jpg)
 
 
 
@@ -844,7 +843,7 @@ A solid meeting agenda sets your meeting up for success. Here are the basic part
 -   Background material or data the participants should review beforehand
 
 Here's an example of an agenda for an analysis project that is just getting started:
-![](attachments/Il-6RShbRaKfukUoW1Wi7Q_46e361d8d3ed42f89ed9d908e795c9a0_Screen-Shot-2020-12-09-at-11.47.11-AM.png)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image20.jpg)
 
 **Sharing your agenda ahead of time**
 After writing your agenda, it's time to share it with the invitees. Sharing the agenda with everyone ahead of time helps them understand the meeting goals and prepare questions, comments, or feedback. You can email the agenda or share it using another collaboration tool.
