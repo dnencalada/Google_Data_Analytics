@@ -370,7 +370,7 @@ Data analysts use formulas and functions to save time and effort by automating c
 
 #### Spreadsheets and the data life cycle
 The relationship of using spreadsheets and the data life cycle: **plan, capture, manage, analyze, archive,** and **destroy**.
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image12.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image12.png)
 
 - **Plan** for the users who will work within a spreadsheet by developing organizational standards.
 This can mean formatting your cells, the headings you choose to highlight, the color scheme, and the way you order your data points.
@@ -478,7 +478,7 @@ Helpful tips:
 A `#DIV/0!` error means that your formula is trying to divide a value in a cell by 0, or by an empty cell (with no value).
 You can delete that row but a better option is to fill `N/A` automatically.
 Change the formula from `=C4/B4\*100` to `=IF(B4, C4/B4*100, "N/A")`:
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image13.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image13.png)
 
 ##### `#ERROR!` or `#NULL!`
 Means that you have specified two or more cell ranges without a comma as the delimiter to separate them.
@@ -509,14 +509,14 @@ Can’t perform a calculation as specified.
 The numbers might be too big or small for the spreadsheet to process, the calculation might be impossible, or there is something wrong with the variables that have been input.
 
 e.g. the spreadsheet can’t execute the DATEDIF formula because the Start Date is after the End Date:
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image14.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image14.png)
 
 
 ##### `#REF!`
 Your formula or function is referencing a cell that is no longer valid. A cell (or range of cells) may be missing because it was deleted.
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image15.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image15.png)
 If you delete row 4:
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image16.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image16.png)
 
 ##### `#VALUE!`
 A general error.
@@ -675,7 +675,7 @@ These stakeholders have their own objectives and may come to you with specific a
 ##### Data science team
 Working with other data analysts, data scientists, and data engineers.
 A big part of your job will be collaborating with other data team members to find new angles of the data to explore. Here's a view of how  different roles on a typical data science team support different functions:
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image17.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image17.png)
 
 #### Tips on working effectively with stakeholders
 Use the following tips to communicate clearly, establish trust, and deliver your findings across groups.
@@ -751,10 +751,10 @@ You can start by sending an email update to Kiri with the latest timeline for th
 
 *Updated timeline email sample:*
 After answering the audience questions, you have the key building blocks you need to write an email to Kiri. Here's an example of how these questions can help organize the flow of the email message:
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image18.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image18.png)
 
 *Project follow-up email sample:*
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image19.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image19.png)
 
 
 
@@ -843,7 +843,7 @@ A solid meeting agenda sets your meeting up for success. Here are the basic part
 -   Background material or data the participants should review beforehand
 
 Here's an example of an agenda for an analysis project that is just getting started:
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image20.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image20.png)
 
 **Sharing your agenda ahead of time**
 After writing your agenda, it's time to share it with the invitees. Sharing the agenda with everyone ahead of time helps them understand the meeting goals and prepare questions, comments, or feedback. You can email the agenda or share it using another collaboration tool.
