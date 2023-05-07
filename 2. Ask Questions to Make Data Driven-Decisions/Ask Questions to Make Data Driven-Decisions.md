@@ -94,7 +94,7 @@ These six steps can help you to break the data analysis process into smaller, ma
 ### 6 Basic problem types
 Understanding what kind of problem you are trying to solve.
 
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image6.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image6.png)
 
 #### Making predictions
 A company that wants to know the best advertising method to bring in new customers is an example of a problem requiring analysts to make predictions.
@@ -117,7 +117,7 @@ Finding patterns deals with identifying trends in a data set.
 How to ask effective questions that lead to key insights you can use to solve all kinds of problems?
 
 #### SMART methodology
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image7.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image7.png)
 - **S**pecific
 Specific questions are simple, significant, and focused on a single topic or a few closely related ideas.
 - **M**easurable
@@ -213,7 +213,7 @@ Video streaming success, Fast food on-the-go
  **Qualitative data**: subjective or explanatory measures of qualities and characteristics
     Why? (Can't be measured with numeric data)
 
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image8.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image8.png)
 
 
    
@@ -283,13 +283,13 @@ Filters show certain data while hiding the rest of the data in a dashboard. To d
 ##### Types of dashboards
 1.  **Strategic**: *Focuses on long term goals and strategies at the highest level of metrics.*
 These dashboards provide information over the longest time frame — from a single financial quarter to years.
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image9.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image9.png)
 2.  **Operational:** *Short-term performance tracking and intermediate goals.*
 Arguably, the most common type of dashboard. Containing information on a time scale of days, weeks, or months, and they can provide performance insight almost in real-time.
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image10.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image10.png)
 3.  **Analytical:** *Consists of the datasets and the mathematics used in these sets.*
 Analytical dashboards contain the details involved in the usage, analysis, and predictions made by data scientists. Rarely shared with upper management as they can be very difficult to understand.
-![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image11.jpg)
+![](https://github.com/dnencalada/Google_Data_Analytics/blob/main/Images/image11.png)
 
 
 
