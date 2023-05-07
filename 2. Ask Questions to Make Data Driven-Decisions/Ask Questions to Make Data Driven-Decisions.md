@@ -29,6 +29,7 @@ Questions to ask yourself in this step:
 1.  What do I need to figure out how to solve this problem?
 2.  What research do I need to do?
 
+
 ##### Step 3: Process
 Clean data is the best data and you will need to clean up your data to get rid of any possible errors, inaccuracies, or inconsistencies. This might mean:
 -   Using spreadsheet functions to find incorrectly entered data
